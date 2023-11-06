@@ -1,4 +1,4 @@
-package txid_merkle_tree
+package merkletree
 
 import (
 	"errors"
